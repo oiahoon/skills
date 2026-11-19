@@ -1,0 +1,5 @@
+interface:
+  display_name: "Fancy-VanGogh 插画"
+  short_description: "将照片或文字场景转绘成角色与环境统一的 Fancy-VanGogh 插画"
+  icon_small: "./assets/icon.png"
+  icon_large: "./assets/icon-large.png"
